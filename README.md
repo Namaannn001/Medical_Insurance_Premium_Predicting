@@ -122,7 +122,7 @@ This project is open-source and available for modification as needed.
 ## Author
 
 👤 **Naman**   
-🔗 GitHub: (https://github.com/Namaannn001/)  
+🔗 GitHub: [Namaannn001](https://github.com/Namaannn001/) 
 
 ---
 
