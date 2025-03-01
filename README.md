@@ -1,1 +1,1 @@
-# Namaannn001-Medical_Insurance_Premium_Predicting
+# Medical_Insurance_Premium_Predicting
